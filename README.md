@@ -1,5 +1,6 @@
 ## Introduction
 
+This is Gayathri's version of the coursera project work for week1 ( exploratory data analysis).
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
